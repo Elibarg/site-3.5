@@ -1,0 +1,93 @@
+.titulo
+    {
+        position: absolute;
+        top: -80px;
+        left: 400px;
+        animation: rubberBand 4s;
+        animation: bounceInDown 4s;
+    }
+footer {
+    padding: 50px;
+    text-align: center;
+    color: white;
+    position: absolute;
+    width: 90%; 
+    line-height: 100px;
+    top: 535px;
+    animation: bounceInUp 4s;
+  }
+  .botões
+  {
+    position: absolute;
+    top: 165px; 
+    left: -225px; 
+    padding: 50px;
+    text-align: center;
+    color: white;
+    animation: fadeInLeftBig 4s;
+  }
+   
+
+  .discneymar
+    {
+        position: absolute;
+        top: 150px; 
+        left: 499px;  
+        animation: fadeInLeftBig 4s;
+    }
+
+    .Barra1
+    {
+      position: absolute;
+      top: 615px; 
+      left: 555px;
+      animation: bounceInUp 4s;
+    }
+    .Barra2 
+    {
+      position: absolute;
+      top: 615px; 
+      left: 155px;
+      animation: bounceInUp 4s;
+    }
+    .Barra3 
+    {
+      position: absolute;
+      top: 645px; 
+      left: 555px;       
+      animation: bounceInUp 4s;
+    }
+    .Barra4 
+    {
+      position: absolute;
+      top: 645px; 
+      left: 155px;
+      animation: bounceInUp 4s;
+    }
+
+
+  table, th, td {
+    border:px solid rgb(255, 255, 255);
+  }
+
+  a:link {
+    color: rgb(253, 253, 253);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: rgb(255, 255, 255);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: white;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
